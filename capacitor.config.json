@@ -1,0 +1,7 @@
+{
+  "appId": "com.saskpower.starter",
+  "appName": "starter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
