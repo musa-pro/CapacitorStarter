@@ -22,7 +22,7 @@ ionic build
 npx cap add electron
 ```
 ## 6. Change base href in `src/index.html`
-So instead of `<base href="/" />` it should be <base href="./" />
+So instead of `<base href="/" />` it should be `<base href="./" />`
 
 ## 7. Build ionic again
 ```
